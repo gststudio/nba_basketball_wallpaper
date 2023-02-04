@@ -1,5 +1,5 @@
 {
-   "packagename": "com.bungaakp007.testing",
+   "packagename": "com.bungaakp007.testingxxx",
    
    "redirect": [
     {
@@ -8,7 +8,7 @@
     }
   ],
    
-   "more":[
+   "morex":[
    {
       "id": 1,
       "title": "IQ Test vs The Moron Test",
@@ -24,7 +24,7 @@
    ],
    
    
-   "wallpaper_database": [
+   "wallpaper_databasex": [
       {
          "id": "1",
          "link_images": "https://www.enwallpaper.com/wp-content/uploads/crop-194.jpg"
